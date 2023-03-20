@@ -1,2 +1,2 @@
 #!/bin/bash
-lm -amvp
+ls -la . .. /boot
