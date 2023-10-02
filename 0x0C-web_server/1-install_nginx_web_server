@@ -3,7 +3,7 @@
 
 apt-get -y update
 apt-get -y install nginx
-curl 127.0.0.1
+curl 54.90.16.11
 listen :80
 ufw allow 'Nginx HTTP'
 echo 'Hello World!' > /var/www/html/index.nginx-debian.html
